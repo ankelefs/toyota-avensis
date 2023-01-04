@@ -5,9 +5,9 @@
 ---
 ### EU-kontroll
 
-Forrige EU-kontroll: 02.03.2022
+**Forrige EU-kontroll:** 02.03.2022
 
-Neste EU-kontroll: 02.03.2024
+**Neste EU-kontroll:** 02.03.2024
 
 ---
 ### Servicer og annet vedlikehold
