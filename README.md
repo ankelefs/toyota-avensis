@@ -15,3 +15,6 @@
 
 **Fylt på kjøleveske** *2.januar 2023* 
 Kjøleveske ble fylt, og da var det så og si helt tomt, og nesten 2 liter ble fylt på. Må sjekke at verdien ligger der den skal, ved varm motor.
+
+**Strammet håndbrekk** *5. januar 2023*
+Strammet håndbrekket med strammemutteren med tilgang fra midtkonsollen. Enkel operasjon, den fungerer. 
