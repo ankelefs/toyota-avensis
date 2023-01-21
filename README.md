@@ -23,3 +23,6 @@ Strammet håndbrekket med strammemutteren med tilgang fra midtkonsollen. Enkel o
 
 **Skiftet motorolje** | *12. januar* | **270 200 km** <br>
 Skiftet motorolje på bilen og byttet oljefilter. Brukte IQ-X Platinium 5W/30 A5 - endte opp med rundt 6-7 liter ny olje. 
+
+**Fikset baggasjeromsåpne-festet** | *21. januar* <br>
+Fikk satt på plass baggasjeromsåpneren som har vært løs. Viste seg å være fem plast-fester som hadde røket, men fikk likevel brukt de på en slik måte at det ble et godt feste. La derimot merke til to lyspærer som hadde gått: bak høyre bremse og bak høyre skiltlys.
