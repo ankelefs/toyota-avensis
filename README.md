@@ -1,19 +1,14 @@
-# TOYOTA AVENSIS
+# Toyota Avensis
+
 * 2006 mod., D-4D 150 (126) HK
-* VX31503 
+* <a href="https://drive.google.com/drive/folders/1PxUAJduzjlXQQY8NOzu5ZZMF66JthuH1?usp=share_link">Google Drive-mappe</a>. 📁
 
----
-Link til Google Drive-mappe: https://drive.google.com/drive/folders/1PxUAJduzjlXQQY8NOzu5ZZMF66JthuH1?usp=share_link. 
-
----
-### EU-kontroll
+## EU-kontroll ✅
 
 **Forrige EU-kontroll:** 02.03.2022
-
 **Neste EU-kontroll:** 02.03.2024
 
----
-### Servicer og annet vedlikehold
+## Servicer og annet vedlikehold ℹ️
 
 **Fylt på kjøleveske** | *2.januar 2023* <br>
 Kjøleveske ble fylt, og da var det så og si helt tomt, og nesten 2 liter ble fylt på. Må sjekke at verdien ligger der den skal, ved varm motor.
